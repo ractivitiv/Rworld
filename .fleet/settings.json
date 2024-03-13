@@ -1,0 +1,5 @@
+{
+    "nodejs.typescript.rebuildOnChanges": true,
+    "nodejs.editor.formatOnSave.prettier.mode": "Enabled",
+    "nodejs.editor.formatOnSave.stylelint.mode": "Enabled"
+}

@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "start",
+            "type": "npm",
+            "workingDir": "E:/RFleet/Rworld/rworld-app/",
+            "command": "run",
+            "scripts": "start"
+        }
+    ]
+}
